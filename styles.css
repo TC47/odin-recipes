@@ -1,4 +1,4 @@
-/* Mystylespage */  
+/* stylespage */  
 
 body {
     background-color: #282828;
@@ -8,15 +8,9 @@ h1,h2 {
     color: #dfee06;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
     font-size: 100px;
 }
 
-h2 {
-    font-size: 80px;
-}
 
 a {
     color: #dfee06;
